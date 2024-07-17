@@ -1,4 +1,5 @@
-# elementary-portfolio
+# Art-in-detail
+
 Простой проект веб-сайта-портфолио
 
 # Лицензия
